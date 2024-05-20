@@ -1,4 +1,4 @@
 export const environment = {
-	apiUrl: 'http://localhost:8080',
+	apiUrl: 'https://verifier-backend.fill-easy.com:8080/ui/presentations',
 	appName: 'Verifier'
 };
